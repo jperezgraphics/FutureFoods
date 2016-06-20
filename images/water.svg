@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="960px" height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
+<circle opacity="0.6" fill="#22B573" cx="355.5" cy="190" r="158"/>
+<circle opacity="0.6" fill="#F7931E" cx="574.697" cy="190.667" r="87.457"/>
+<circle opacity="0.6" fill="#ED1C24" cx="703.545" cy="190.445" r="54.299"/>
+<text transform="matrix(1 0 0 1 347.9497 192.6675)" fill="#FFFFFF" font-family="'DINAlternate-Bold'" font-size="8.9014">70%</text>
+<text transform="matrix(1 0 0 1 568.1113 192.9629)" fill="#FFFFFF" font-family="'DINAlternate-Bold'" font-size="8.9014">19%</text>
+<text transform="matrix(1 0 0 1 696.8848 192.8477)" fill="#FFFFFF" font-family="'DINAlternate-Bold'" font-size="8.9014">11%</text>
+<line opacity="0.6" fill="#22B573" stroke="#22B573" stroke-miterlimit="10" x1="355.5" y1="348" x2="355.5" y2="497"/>
+<line opacity="0.6" fill="#22B573" stroke="#F7931E" stroke-miterlimit="10" x1="574.5" y1="278" x2="574.5" y2="497"/>
+<line opacity="0.6" fill="#22B573" stroke="#ED1C24" stroke-miterlimit="10" x1="703.5" y1="245" x2="703.5" y2="497"/>
+<rect x="298.274" y="499.252" fill="none" width="117.413" height="8.166"/>
+<text transform="matrix(1 0 0 1 298.2744 506.3721)" fill="#22B573" font-family="'DINAlternate-Bold'" font-size="10">70% ANIMAL AGRICULTURE</text>
+<rect x="543.962" y="499.543" fill="none" width="64.583" height="8.166"/>
+<text transform="matrix(1 0 0 1 543.9619 506.6631)" fill="#F7931E" font-family="'DINAlternate-Bold'" font-size="10">19% INDUSTRY</text>
+<rect x="659.625" y="500.25" fill="none" width="87.5" height="9"/>
+<text transform="matrix(1 0 0 1 659.625 507.3701)" fill="#ED1C24" font-family="'DINAlternate-Bold'" font-size="10">11% OTHER ENERGY</text>
+<text transform="matrix(1 0 0 1 743.6094 507.3701)" font-family="'DINAlternate-Bold'" font-size="10"> </text>
+</svg>

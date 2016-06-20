@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1013.472px" height="444px" viewBox="0 0 1013.472 444" enable-background="new 0 0 1013.472 444" xml:space="preserve">
+<circle opacity="0.6" fill="#0000FF" cx="954.566" cy="332.906" r="44"/>
+<circle opacity="0.6" fill="#22B573" cx="858.254" cy="332.009" r="42.851"/>
+<circle opacity="0.6" fill="#F7931E" cx="759.124" cy="333.93" r="39.907"/>
+<circle opacity="0.6" fill="#29ABE2" cx="667.202" cy="333.247" r="36.155"/>
+<circle opacity="0.6" fill="#ED1C24" cx="581.248" cy="333.077" r="33.938"/>
+<line fill="none" stroke="#ED1C24" stroke-miterlimit="10" x1="782.472" y1="458.5" x2="783.472" y2="458.5"/>
+<g opacity="0.6">
+	<path fill="none" stroke="#0000FF" stroke-miterlimit="10" d="M954.813,289.156C954.678,138.083,833,15.656,682.921,15.656
+		c-150.08,0-271.756,122.427-271.891,273.5"/>
+</g>
+<g opacity="0.6">
+	<path fill="none" stroke="#22B573" stroke-miterlimit="10" d="M858.395,289.156c-0.135-151.073-121.812-273.5-271.892-273.5
+		c-150.08,0-271.756,122.427-271.891,273.5"/>
+</g>
+<g opacity="0.6">
+	<path fill="none" stroke="#F7931E" stroke-miterlimit="10" d="M758.977,294.156c-0.135-151.073-121.812-273.5-271.892-273.5
+		c-150.08,0-271.756,122.427-271.892,273.5"/>
+</g>
+<g opacity="0.6">
+	<path fill="none" stroke="#29ABE2" stroke-miterlimit="10" d="M667.101,297.156c-0.135-151.073-121.812-273.5-271.891-273.5
+		c-150.08,0-271.757,122.427-271.892,273.5"/>
+</g>
+<g opacity="0.6">
+	<path fill="none" stroke="#ED1C24" stroke-miterlimit="10" d="M581.101,299.156c-0.135-151.073-121.812-273.5-271.891-273.5
+		c-150.08,0-271.757,122.427-271.892,273.5"/>
+</g>
+<line opacity="0.6" fill="none" stroke="#ED1C24" stroke-miterlimit="10" x1="37.324" y1="297.75" x2="37.319" y2="336.989"/>
+<line opacity="0.6" fill="none" stroke="#29ABE2" stroke-miterlimit="10" x1="123.363" y1="291.404" x2="123.319" y2="356.156"/>
+<line opacity="0.6" fill="none" stroke="#F7931E" stroke-miterlimit="10" x1="215.232" y1="289.777" x2="215.194" y2="379.656"/>
+<line opacity="0.6" fill="none" stroke="#22B573" stroke-miterlimit="10" x1="314.624" y1="286.905" x2="314.613" y2="394.656"/>
+<line opacity="0.6" fill="none" stroke="#0000FF" stroke-miterlimit="10" x1="411.031" y1="288.531" x2="411.316" y2="426.406"/>
+<rect y="344.156" fill="none" width="87.5" height="9"/>
+<text transform="matrix(1 0 0 1 4.882812e-04 351.2764)" fill="#ED1C24" font-family="'DINAlternate-Bold'" font-size="10">14% OTHER ENERGY </text>
+<rect x="74.028" y="365.319" fill="none" width="98.582" height="8.166"/>
+<text transform="matrix(1 0 0 1 74.0283 372.4395)" fill="#29ABE2" font-family="'DINAlternate-Bold'" font-size="10">16% TRANSPORTATION</text>
+<rect x="182.903" y="386.49" fill="none" width="64.582" height="8.166"/>
+<text transform="matrix(1 0 0 1 182.9033 393.6094)" fill="#F7931E" font-family="'DINAlternate-Bold'" font-size="10">21% INDUSTRY</text>
+<rect x="255.917" y="397.406" fill="none" width="117.412" height="8.166"/>
+<text transform="matrix(1 0 0 1 255.918 404.5254)" fill="#22B573" font-family="'DINAlternate-Bold'" font-size="10">24% ANIMAL AGRICULTURE</text>
+<rect x="323.63" y="430.93" fill="none" width="184.662" height="8.166"/>
+<text transform="matrix(1 0 0 1 323.6304 438.0498)" fill="#0000FF" font-family="'DINAlternate-Bold'" font-size="10">25% ELECTRICITY AND HEAT PRODUCTION</text>
+<text transform="matrix(1 0 0 1 573.6421 336.5146)" fill="#FFFFFF" font-family="'DINAlternate-Bold'" font-size="10">14%</text>
+<text transform="matrix(1 0 0 1 658.2651 336.4346)" fill="#FFFFFF" font-family="'DINAlternate-Bold'" font-size="10">16%</text>
+<text transform="matrix(1 0 0 1 751.7104 338.4434)" fill="#FFFFFF" font-family="'DINAlternate-Bold'" font-size="10">21%</text>
+<text transform="matrix(1 0 0 1 849.4233 336.4463)" fill="#FFFFFF" font-family="'DINAlternate-Bold'" font-size="10">24%</text>
+<text transform="matrix(1 0 0 1 945.7358 336.5146)" fill="#FFFFFF" font-family="'DINAlternate-Bold'" font-size="10">25%</text>
+</svg>
